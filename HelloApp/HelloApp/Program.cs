@@ -11,6 +11,7 @@ namespace HelloApp
         static void Main(string[] args)
         {
             Console.WriteLine("Я VOVA");
+            Console.WriteLine("Прииивеет!")
         }
     }
 }
